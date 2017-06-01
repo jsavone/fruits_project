@@ -27,6 +27,13 @@ header{
   color: #ffffff;
   text-align:center;
   font-size: 28px;
+  display: block;
+}
+
+main{
+  display:block;
+  background-color: purple;
+  height: 100%;
 }
 
 header img {
@@ -45,4 +52,18 @@ footer {
   text-align: center;
   position: fixed;
   bottom: 0px;
+}
+
+#left_section{
+  height: 100%;
+  width: 20%;
+  float: left;
+  background-color: green;
+}
+
+.fruit_box{
+  width: 80%;
+  background-color: white;
+  height: 80%;
+  margin: 0px auto;
 }
