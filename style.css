@@ -2,9 +2,37 @@ body{
   margin: 0px;
 }
 
-
 .container{
   width: 100vw;
   height: 100vh;
   background-color: orange;
+}
+
+.logo_container{
+  margin: 0px auto;
+  width: 300px;
+}
+
+.berry_container, .title{
+  float: left;
+}
+
+
+
+header{
+  height: 40px;
+  background-color: #334455;
+  width: 100%;
+  color: #ffffff;
+  text-align:center;
+  font-size: 28px;
+}
+
+header img{
+  height: 30px;
+}
+
+
+footer {
+
 }
