@@ -67,3 +67,13 @@ footer {
   height: 80%;
   margin: 0px auto;
 }
+
+.fruit_item{
+  width: 60px;
+  margin: 0px auto;
+}
+
+.fruit_item img{
+  height: 50px;
+  margin-top: 20px;
+}
