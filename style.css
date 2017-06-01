@@ -54,7 +54,7 @@ footer {
   bottom: 0px;
 }
 
-#left_section{
+.left_section{
   height: 100%;
   width: 20%;
   float: left;
@@ -63,17 +63,18 @@ footer {
 
 .fruit_box{
   width: 80%;
-  background-color: white;
   height: 80%;
   margin: 0px auto;
+  overflow: scroll;
 }
 
 .fruit_item{
-  width: 60px;
+  width: 120px;
   margin: 0px auto;
+
 }
 
 .fruit_item img{
-  height: 50px;
+  height: 100px;
   margin-top: 20px;
 }
